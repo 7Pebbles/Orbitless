@@ -1,5 +1,7 @@
 <img src="banner.png">
-# Orbitless  
+
+# Orbitless
+
 **Decentralized Team Workspace**
 
 Orbitless is a peer-to-peer collaboration platform for small development teams. It combines **messaging channels** and **Kanban boards** in a **local-first** mesh network — no central servers, no vendor lock-in.
